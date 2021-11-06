@@ -28,6 +28,10 @@ export default function Pricing() {
               Includes every service we offer plus unlimited projects.
             </p>
           </div>
+          {/* <div style={{width: '500px'}}>
+
+          <img className="mt-4" src="https://images.pexels.com/photos/7750105/pexels-photo-7750105.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" />
+          </div> */}
           <a
             href="#"
             className="mt-8 w-full bg-yellow-600 border border-transparent px-5 py-3 inline-flex items-center justify-center text-base font-medium rounded-md text-white hover:bg-yellow-700 sm:mt-10 sm:w-auto xl:mt-0"
